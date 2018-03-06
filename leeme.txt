@@ -1,4 +1,4 @@
--- Curso: Despliegue de aplicaciones web - Curso 2012
+-- Curso: Despliegue de aplicaciones web - Curso 2018
 -- Fichero: Leeme.txt
 
 
@@ -6,14 +6,23 @@ Descripcion de los ficheros
 ----------------------------
 
 Leeme.txt -> este documento.
-instalaci髇.txt -> Docuemento com una guia breve de como realizar una instalaci髇 de la aplicacion.
+
+instalaci贸n.txt -> Docuemento com una guia breve de como realizar una instalaci贸n de la aplicacion.
+
 peliculas -> Directorio con los fuentes de la aplicacion web
-scripts_configuraci髇_BD -> Directorio con los scrips de configutracion de la base de datos.
-	crear_tablas_peliculas.sql -> Script de creaci髇 de tablas de la base de datos que utiliza la aplicaci髇 web.
-	inserci髇_admin_peliculas.sql -> Inserci髇 del usuario administrador en la tabla de usuarios.
+
+scripts_configuraci贸n_BD -> Directorio con los scrips de configutracion de la base de datos.
+
+	crear_tablas_peliculas.sql -> Script de creaci贸n de tablas de la base de datos que utiliza la aplicaci贸n web.
+	
+	inserci贸n_admin_peliculas.sql -> Inserci贸n del usuario administrador en la tabla de usuarios.
+
 datos_prueba -> Directorio que contiene ficheros para introducir datos de prueba en la aplicacion.
+
 	inserciones_prueba_peliculas.sql -> Scrit con sentencias sql para introducir peliculas de prueba en la tabla peliculas.
+	
 	img -> directorio con algunas images para las peliculas de prueba introducidas.
+	
 	cargar_datos_prueba.txt -> Fichero que explica como cargar los datos de prueba.
 		
 
