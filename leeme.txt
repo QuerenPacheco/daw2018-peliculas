@@ -1,8 +1,6 @@
 -- Curso: Despliegue de aplicaciones web - Curso 2017-2018
--- Fichero: Leeme.txt
 
-
-Descripcion de los ficheros
+Descripcion de los ficheros y Directorios
 ----------------------------
 
 Leeme.txt -> este documento.
