@@ -1,4 +1,4 @@
--- Curso: Despliegue de aplicaciones web - Curso 2018
+-- Curso: Despliegue de aplicaciones web - Curso 2017-2018
 -- Fichero: Leeme.txt
 
 
